@@ -12,7 +12,7 @@ Sistem Informasi C 2024
 
 Pnjelasan Sinngkat Dari Program CRUD yang saya buat, dengan tema saya "Sistem Manajemen Alat2 Musik Tradisional"
 
-### Class Main
+## Class Main
 
 <img width="849" height="260" alt="image" src="https://github.com/user-attachments/assets/828dc2c8-02ba-48f6-b6e2-6bf8398e57d0" />
 
@@ -26,7 +26,7 @@ Bagian ini untuk menampilkan output dari setiap pilihan untuk memudahkan penggun
 
 Bagian terakhir berisi pengendalian menu menggunakan switch-case. Setiap pilihan akan memanggil method yang sesuai dari class Service. Program hanya berhenti jika pengguna memilih angka 0.
 
-###Class Model
+## Class Model
 
 <img width="490" height="201" alt="image" src="https://github.com/user-attachments/assets/65157b37-2b5f-494f-b09e-3b82a71ffe40" />
 
@@ -44,7 +44,7 @@ Bagian ini berisi getter dan setter yang digunakan untuk mengakses atau mengubah
 
 Method toString() dipakai untuk mengubah objek Model menjadi bentuk teks yang lebih mudah dibaca ketika ditampilkan ke layar.
 
-###Class Service
+## Class Service
 
 <img width="873" height="229" alt="image" src="https://github.com/user-attachments/assets/935726b9-4cb5-4c5d-98da-29851e2247f9" />
 
