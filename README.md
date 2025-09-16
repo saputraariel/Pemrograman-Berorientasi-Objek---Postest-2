@@ -12,4 +12,8 @@ Sistem Informasi C 2024
 
 Pnjelasan Sinngkat Dari Program CRUD yang saya buat, dengan tema saya "Sistem Manajemen Alat2 Musik Tradisional"
 
-## Penjelasan Alur Program
+### Class Main
+
+
+## Penjelasan Alur Programa
+
