@@ -78,15 +78,15 @@ Method cariAlat() digunakan untuk mencari data berdasarkan nama atau daerah asal
 
 Program dimulai dari Main.java dengan menampilkan menu utama secara berulang menggunakan perulangan do-while. Pengguna memasukkan pilihan menu, kemudian program memanggil method pada class Service sesuai input.
 
-  Jika memilih 1, program menjalankan tambahAlat() untuk menambah data baru.
+  -Jika memilih 1, program menjalankan tambahAlat() untuk menambah data baru.
 
-  Jika memilih 2, program menjalankan tampilkanAlat() untuk menampilkan seluruh data.
+  -Jika memilih 2, program menjalankan tampilkanAlat() untuk menampilkan seluruh data.
 
-  Jika memilih 3, program menjalankan editAlat() untuk mengubah data yang sudah ada.
+  -Jika memilih 3, program menjalankan editAlat() untuk mengubah data yang sudah ada.
 
-  Jika memilih 4, program menjalankan hapusAlat() untuk menghapus data.
+  -Jika memilih 4, program menjalankan hapusAlat() untuk menghapus data.
 
-  Jika memilih 5, program menjalankan cariAlat() untuk mencari data berdasarkan nama atau daerah asal.
+  -Jika memilih 5, program menjalankan cariAlat() untuk mencari data berdasarkan nama atau daerah asal.
 
 Proses ini terus berulang hingga pengguna memilih 0 untuk keluar, kemudian program berhenti dan menutup scanner.
 
